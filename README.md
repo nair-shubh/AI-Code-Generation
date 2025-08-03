@@ -2,6 +2,9 @@
 
 A sophisticated AI-powered code generation and deployment system that leverages E2B cloud execution for safe, isolated code processing. This system provides both command-line and web interfaces for automated code modifications with GitHub integration.
 
+![Codegen Screenshot](https://raw.githubusercontent.com/nair-shubh/AI-Code-Generation/main/src/web/static/codegen-ss.PNG)
+
+
 ## 🚀 Key Features
 
 - **🤖 AI-Powered Code Generation**: Uses OpenAI GPT-4 for intelligent code modifications
@@ -240,4 +243,5 @@ This project is licensed under the MIT License.
 - **Advanced Testing**: Integration with CI/CD pipelines
 - **Collaboration Features**: Multi-user support
 - **Template System**: Pre-built modification templates
+
 - **Analytics**: Usage tracking and insights 
